@@ -1,5 +1,7 @@
 # jenkins-dockerfile
 
+Jenkins docker 실행 시 docker: not found 에러로 인해 jenkins docker file 커스텀
+
 ## Install
 
 ```
